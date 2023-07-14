@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AnimeStream</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="empty_favorite">Tidak ada list favorite</string>
+    <string name="search">Cari Anime</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete_favorite">Hapus dari Favorite</string>
+    <string name="add_favorite">Tambah Favorite</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="email">bsyrlhabibi@gmail.com</string>
+    <string name="name">Muhammadun Basyarul Habibi</string>
+
+</resources>
