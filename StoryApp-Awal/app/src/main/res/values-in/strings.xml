@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="name">Nama</string>
+    <string name="logo">Logo App</string>
+    <string name="welcome">Selamat datang di StoryApp</string>
+    <string name="description_app">Unggah atau ambil foto dengan kamera dan deskripsikan cerita anda</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Keluar</string>
+
+    <string name="name_desc">Masukan nama anda</string>
+    <string name="email_desc">Masukan alamat surel anda</string>
+    <string name="password_desc">Masukan kata sandi anda</string>
+
+    <string name="input_name_hint">Masukkan nama</string>
+    <string name="input_email_hint">Masukkan alamat email</string>
+    <string name="input_password_hint">Masukkan kata sandi</string>
+
+    <string name="required_field">Harap isi kolom ini</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">Password harus 8 karakter</string>
+
+    <string name="success_login">Login berhasil!</string>
+    <string name="login_error">Masuk gagal. Silakan coba lagi.</string>
+    <string name="register_success">Pendaftaran akun berhasil. Silakan masuk.</string>
+    <string name="register_error">Pendaftaran akun gagal</string>
+    <string name="cannot_empty_field">%1$s tidak boleh kosong</string>
+
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="photo_upload_result">Hasil unggah foto</string>
+    <string name="add_button_label">Tambah</string>
+    <string name="upload_button_label">Unggah</string>
+    <string name="gallery_button_label">Galeri</string>
+    <string name="camera_button_label">Kamera</string>
+    <string name="photo">Foto</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="permission_error_message">Tidak dapat memperoleh izin.</string>
+    <string name="camera_failed_message">Gagal membuka kamera</string>
+    <string name="error_take_picture_message">Gagal mengambil gambar</string>
+
+    <string name="take_picture">Ambil foto</string>
+    <string name="switch_camera">Ganti kamera</string>
+
+    <string name="settings">Lokalisasi</string>
+</resources>

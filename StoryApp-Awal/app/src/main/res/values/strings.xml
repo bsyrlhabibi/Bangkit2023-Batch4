@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="name" translatable="false">Name</string>
+    <string name="logo">App Logo</string>
+    <string name="welcome">Welcome to StoryApp</string>
+    <string name="description_app">Upload or take a photo with your camera and describe your story</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+
+    <string name="name_desc">Enter your name</string>
+    <string name="email_desc">Enter your email address</string>
+    <string name="password_desc">Enter your password</string>
+
+    <string name="input_name_hint">Enter name</string>
+    <string name="input_email_hint">Enter email address</string>
+    <string name="input_password_hint">Enter password</string>
+
+    <string name="required_field">This field is required</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password">Password must be 8 characters</string>
+
+    <string name="success_login">Login successful!</string>
+    <string name="login_error">Login failed. Please try again.</string>
+    <string name="register_success">Account registration successful. Please log in.</string>
+    <string name="register_error">Account registration failed</string>
+    <string name="cannot_empty_field">%1$s cannot be empty</string>
+
+    <string name="choose_picture">Choose Picture</string>
+    <string name="photo_upload_result">Photo Upload Result</string>
+    <string name="add_button_label">Add</string>
+    <string name="upload_button_label">Upload</string>
+    <string name="gallery_button_label">Gallery</string>
+    <string name="camera_button_label">Camera</string>
+    <string name="photo">Photo</string>
+    <string name="description">Description</string>
+
+    <string name="permission_error_message">Could not obtain permission.</string>
+    <string name="camera_failed_message">Failed to open camera</string>
+    <string name="error_take_picture_message">Failed to take picture</string>
+
+    <string name="take_picture">Take picture</string>
+    <string name="switch_camera">Switch camera</string>
+
+    <string name="settings">Localization</string>
+
+</resources>
