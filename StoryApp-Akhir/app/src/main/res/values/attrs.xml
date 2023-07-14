@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="PasswordEditText">
+        <attr name="passwordErrorColor" format="color" />
+    </declare-styleable>
+</resources>
