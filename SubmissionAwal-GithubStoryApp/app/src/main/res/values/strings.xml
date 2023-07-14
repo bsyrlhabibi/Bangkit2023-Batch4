@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github - REST API</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+</resources>
