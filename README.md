@@ -17,6 +17,3 @@ This Kotlin project is a collection of implementation examples and solutions to 
 **Important:**
 - Do not duplicate or claim the code in this project as your own.
 - Use this code for reference and conceptual understanding, but avoid copying the code directly.
-
-Translated with www.DeepL.com/Translator (free version)
-
