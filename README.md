@@ -10,10 +10,10 @@ We hope that this project serves as a valuable reference for developers, researc
 
 Thank you for visiting the Program Bangkit 2023 Android repository. We hope you find inspiration and gain new knowledge from the projects shared here.
 
-**Notes: This project is for reference and teaching purposes only. Please refrain from plagiarism or unethical use of the code in this project.**
-
 This Kotlin project is a collection of implementation examples and solutions to common problems in software development using Kotlin. The main goal of this project is to provide guidance, inspiration, and reference for Kotlin developers.
 
 **Important:**
 - Do not duplicate or claim the code in this project as your own.
 - Use this code for reference and conceptual understanding, but avoid copying the code directly.
+
+**Notes: This project is for reference and teaching purposes only. Please refrain from plagiarism or unethical use of the code in this project.**
